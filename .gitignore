@@ -1,0 +1,14 @@
+*.class
+.mtj.tmp/
+*.war
+*.ear
+hs_err_pid*
+.DS_Store
+Servers/*
+.metadata
+.settings
+.project
+target/
+.metadata
+.recommenders
+RemoteSystemsTempFiles
